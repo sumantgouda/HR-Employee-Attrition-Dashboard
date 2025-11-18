@@ -7,7 +7,6 @@
 
   # Dataset Used
   <a href="https://github.com/sumantgouda/HR-Employee-Attrition-Dashboard/blob/main/HR%20Employee%20Attrition%20Data.xlsx">Dataset</a>
-  Dashboard Highlights
 
 ## The Excel-based interactive dashboard includes:
  Key Metrics
@@ -35,7 +34,7 @@
 * Job Satisfaction & Environment Satisfaction
 * Attrition (Yes/No)
 
-# Key Insights from the Dashboard
+## Key Insights from the Dashboard
 * Attrition is highest among employees aged 18–27 and 28–37.
 * Employees with 0–2 years of experience show the highest turnover.
 * R&D and Sales departments have noticeably higher attrition compared to HR.
