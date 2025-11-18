@@ -14,7 +14,8 @@
 * Attrition Rate: 2.7%
 * Average Monthly Income: ₹6,502.93
 * Average Age: 36.9
-* Visualizations Included
+  
+Visualizations Included
 * Attrition by Age Group
 * Attrition by Experience (Years at Company)
 * Attrition by Department
